@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhimanyu12321/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhimanyu12321/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
