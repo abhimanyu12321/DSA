@@ -29,8 +29,8 @@ class Solution(object):
     def MergSort(self,array,left,right,mid):
         if left >= right:
             return
-        leftArray = self.MergSort(array,left,mid,(left+mid)/2)
-        rightArray = self.MergSort(array,mid+1,right,(mid+right+1)/2)
+        self.MergSort(array,left,mid,(left+mid)/2)
+        self.MergSort(array,mid+1,right,(mid+right+1)/2)
         self.Merge(array,left,right,mid)
 
     def sortArray(self, nums):
@@ -38,6 +38,5 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        n = len(nums)
-        self.MergSort(nums,0,n-1,(n-1)/2)
+        self.MergSort(nums,0,(len(nums))-1,((len(nums))-1)/2)
         return nums
