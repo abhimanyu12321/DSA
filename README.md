@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -52,4 +53,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhimanyu12321/DSA/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
