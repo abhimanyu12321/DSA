@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/abhimanyu12321/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhimanyu12321/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhimanyu12321/DSA/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/abhimanyu12321/DSA/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/abhimanyu12321/DSA/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
