@@ -10,7 +10,6 @@ class Solution(object):
             count[i]+=1
         for i in t:
             count[i]+=1
-        print(count)
         for key in count:
             if count[key] % 2 != 0:
                 return key
