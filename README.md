@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -59,13 +60,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 | [1894-merge-strings-alternately](https://github.com/abhimanyu12321/DSA/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/abhimanyu12321/DSA/tree/master/1833-find-the-highest-altitude) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
