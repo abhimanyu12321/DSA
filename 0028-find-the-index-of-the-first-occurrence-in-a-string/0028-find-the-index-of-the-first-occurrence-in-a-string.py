@@ -5,10 +5,21 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        size = len(needle)
-        for i in range(len(haystack)-size+1):
-            str = haystack[i:i+size]
-            if str == needle:
-                return i
+        left,right,temp = 0,0,''
+
+        while left < len(haystack) and right <len(needle):
+            if haystack[left] == needle[right]:
+                temp+= haystack[left]
+                left+=1
+                right+=1
+            else:
+                temp = ''
+                left = left-right+1
+                right = 0
+            if temp == needle:
+                return left-len(needle)
         return -1
+        
+
+
         
