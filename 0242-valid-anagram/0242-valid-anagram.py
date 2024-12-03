@@ -5,23 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        str = {}
+        count = defaultdict(int)
 
         for i in s:
-            if str.get(i):
-                str[i]+=1
-            else:
-                str[i] = 1
-
+            count[i]+=1
         for i in t:
-            if str.get(i):
-                str[i]-=1
-            else:
+            count[i]-=1
+        for key in count:
+            if count[key] != 0:
                 return False
-        
-        for key in str.keys():
-            if str[key] != 0:
-                return False
-        return True
-        
-        
+        return True        
