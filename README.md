@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhimanyu12321/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhimanyu12321/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhimanyu12321/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/abhimanyu12321/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhimanyu12321/DSA/tree/master/0283-move-zeroes) |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
 | [1833-find-the-highest-altitude](https://github.com/abhimanyu12321/DSA/tree/master/1833-find-the-highest-altitude) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/abhimanyu12321/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/abhimanyu12321/DSA/tree/master/0948-sort-an-array) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhimanyu12321/DSA/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/abhimanyu12321/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhimanyu12321/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/abhimanyu12321/DSA/tree/master/0389-find-the-difference) |
 ## String
