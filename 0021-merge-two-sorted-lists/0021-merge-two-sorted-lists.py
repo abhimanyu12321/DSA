@@ -14,22 +14,17 @@ class Solution(object):
         ref = ans 
         while list1 and list2:
             if list2.val <= list1.val:
-                ans.next = ListNode(list2.val)
+                ans.next = list2
                 list2 = list2.next
                 ans = ans.next
             else:
-                ans.next = ListNode(list1.val)
+                ans.next = list1
                 list1 = list1.next
                 ans = ans.next
-        while list1:
-            ans.next = ListNode(list1.val)
-            list1 = list1.next
-            ans = ans.next
-        while list2:
-            ans.next = ListNode(list2.val)
-            list2 = list2.next
-            ans = ans.next
-
+        if list1:
+            ans.next = list1
+        if list2:
+            ans.next = list2
         return ref.next
                 
         
